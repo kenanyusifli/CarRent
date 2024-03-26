@@ -95,3 +95,23 @@ body {
     height: 100%;
 object-fit: cover;
   }
+  #customer{
+text-align: center;
+  }
+  #cus{
+    text-align: center;
+    font-size: 46px;
+    font-weight: 900;
+    text-align: center;
+    margin: 0 0 25px 0;
+    padding: 0;
+color:  #716d6e;
+  }
+  .underline{
+    height: 4px;
+    width: 135px;
+    display: block;
+    background-color: #c61334;
+    margin: 0 auto;
+}
+
